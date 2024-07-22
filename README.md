@@ -16,5 +16,14 @@ should be able to see posts created by other users.
 database schema on phpadmin
 ![database schema](https://github.com/user-attachments/assets/108fe9f2-35d5-4ecd-86f3-d8d0eaa55bdc)
 
+The login page and dashboard is very simple without any styling for general pupose only.
+
+login page
+
+![login](https://github.com/user-attachments/assets/a9c0f7fd-1db1-4711-befb-74673aaa9048)
+
+dashboard page
+
+![dashboard](https://github.com/user-attachments/assets/977862e0-d1b0-4fd7-974a-ce7f0db7b5d8)
  
 Tech stack used - php mysql composer
