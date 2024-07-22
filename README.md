@@ -13,4 +13,8 @@ o Each post should have only two fields: a title and a description.
 o Ensure that each user can see and manage only their own posts. No user
 should be able to see posts created by other users.
 
+database schema on phpadmin
+![database schema](https://github.com/user-attachments/assets/108fe9f2-35d5-4ecd-86f3-d8d0eaa55bdc)
+
+ 
 Tech stack used - php mysql composer
